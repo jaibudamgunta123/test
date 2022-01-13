@@ -1,4 +1,4 @@
-'use strict'
+'use stricts'
 
 const pkg = require('../packages.json')
 const year = new Date().getFullYear()
